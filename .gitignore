@@ -1,4 +1,16 @@
+# Ignore images & outputs
+alert_snapshots/
+saved_frames/
+
+# Ignore models
+*.pt
+
+# Ignore database
+*.db
+
+# Python cache
 __pycache__/
 *.pyc
-.env
+
+# Virtual env
 venv/
