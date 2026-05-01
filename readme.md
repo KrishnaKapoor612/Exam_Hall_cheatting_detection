@@ -19,7 +19,8 @@ A real-time AI-based cheating detection system using **YOLOv8 Pose Estimation + 
 
 Input → Preprocessing → YOLO Pose → Tracking → Rule Engine → Alerts
 
-![Architecture](assets/architecture.png)
+<img width="448" height="781" alt="Screenshot 2026-05-01 110751" src="https://github.com/user-attachments/assets/fa8f445a-a08c-4320-ab26-572f913f5f0a" />
+
 
 ---
 
