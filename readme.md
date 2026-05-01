@@ -48,10 +48,12 @@ Input → Preprocessing → YOLO Pose → Tracking → Rule Engine → Alerts
 ## 📸 Sample Output
 
 ### YOLOv8 Output
-![YOLOv8](assets/yolov8_output.png)
+<img width="392" height="398" alt="Screenshot 2026-05-01 101126" src="https://github.com/user-attachments/assets/71bd8504-9b20-4596-ad9f-9796f309c655" />
+
 
 ### YOLOv11 Output
-![YOLOv11](assets/yolov11_output.png)
+<img width="446" height="532" alt="Screenshot 2026-05-01 101355" src="https://github.com/user-attachments/assets/b2d92ca2-1856-420b-819d-7b6ffc1cb7cc" />
+
 
 ---
 
