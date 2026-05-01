@@ -6,7 +6,7 @@ A real-time AI-based cheating detection system using **YOLOv8 Pose Estimation + 
 
 ## 🚀 Features
 
-- Real-time student monitoring (18–22 FPS)
+- Real-time student monitoring (14-20 FPS)
 - Head movement detection (cheating behavior)
 - Phone usage detection (object detection)
 - Multi-person detection
